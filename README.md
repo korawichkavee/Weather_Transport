@@ -3,6 +3,6 @@ This respiratory is a corresponds of my research thesis “Exploring the impact 
 # file type
 I used interchangeably between .PY and. IPNYB. 
 
-
-Korawich Kavee
-กรวิชญ์ กวี
+# about me
+Korawich Kavee (กรวิชญ์ กวี)
+https://www.linkedin.com/in/korawich-kavee-b8214a11b/
